@@ -27,19 +27,19 @@ Before you can add the webshop you need to [create a Mollie account](https://www
 
 #### Step 1. Add the footer include with the payment link
 
-Download [webshop.html](https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/_includes/webshop.html) and add it to your '_includes' folder. Make sure the bottom of your layout document looks like the code below. The paymentlink should be the personal re-usable link you just created. The email address should be the address on which you want to receive your email confirmation of the order.
+Download [webshop.html](https://raw.githubusercontent.com/xtapo/jekyllcodex/gh-pages/_includes/webshop.html) and add it to your '_includes' folder. Make sure the bottom of your layout document looks like the code below. The paymentlink should be the personal re-usable link you just created. The email address should be the address on which you want to receive your email confirmation of the order.
 
 ```
 {% raw %}...
 <script src="/js/jquery.min.js"></script>
-{% include webshop.html email="jhvanderschee@gmail.com" paymentlink="https://useplink.com/payment/ssMgtkddEzgC4rKKJJ9T" %}
+{% include webshop.html email="xtapo@gmail.com" paymentlink="https://useplink.com/payment/ssMgtkddEzgC4rKKJJ9T" %}
 </body>
 </html>{% endraw %}
 ```
 
 #### Step 2. Add the cart and checkout files
 
-First, download [cart.md](https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/cart.md) and [checkout.md](https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/checkout.md) and save them in the root of your site. Next, download [cart.html](https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/_includes/cart.html) and [checkout.html](https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/_includes/checkout.html) and save them in your '_includes' directory.
+First, download [cart.md](https://raw.githubusercontent.com/xtapo/jekyllcodex/gh-pages/cart.md) and [checkout.md](https://raw.githubusercontent.com/xtapo/jekyllcodex/gh-pages/checkout.md) and save them in the root of your site. Next, download [cart.html](https://raw.githubusercontent.com/xtapo/jekyllcodex/gh-pages/_includes/cart.html) and [checkout.html](https://raw.githubusercontent.com/xtapo/jekyllcodex/gh-pages/_includes/checkout.html) and save them in your '_includes' directory.
 
 #### Step 3. Create some product links
 

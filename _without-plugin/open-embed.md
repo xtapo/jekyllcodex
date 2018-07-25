@@ -114,7 +114,7 @@ mp3_embed();
 
 ### Installation
 
-Step 1. Download the file [open-embed.html](https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/_includes/open-embed.html)<br>Step 2. Save the file in the '_includes' directory of your project<br>Step 3. Make sure the bottom of your layout document looks like this:
+Step 1. Download the file [open-embed.html](https://raw.githubusercontent.com/xtapo/jekyllcodex/gh-pages/_includes/open-embed.html)<br>Step 2. Save the file in the '_includes' directory of your project<br>Step 3. Make sure the bottom of your layout document looks like this:
 
 ```
 {% raw %}...

@@ -1,7 +1,7 @@
 ---
 title: Contact
 form:
-  to: jhvanderschee@gmail.com
+  to: xtapo@gmail.com
   subject: New submission!
   redirect: /
   form_engine: formspree

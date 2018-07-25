@@ -30,7 +30,7 @@ This code looks at the path of the current page to destill the breadcrumb path. 
 
 ### Installation
 
-Step 1. Download the file [breadcrumbs.html](https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/_includes/breadcrumbs.html)
+Step 1. Download the file [breadcrumbs.html](https://raw.githubusercontent.com/xtapo/jekyllcodex/gh-pages/_includes/breadcrumbs.html)
 <br />Step 2. Save the file in the ‘_includes’ directory of your project
 <br />Step 3. Add the following line to your layout on the place where you want the breadcrumbs to appear:
 

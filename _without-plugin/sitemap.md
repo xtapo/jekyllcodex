@@ -41,7 +41,7 @@ layout: null
 
 ### Installation
 
-Step 1. Download the file [sitemap.xml](https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/sitemap.xml)
+Step 1. Download the file [sitemap.xml](https://raw.githubusercontent.com/xtapo/jekyllcodex/gh-pages/sitemap.xml)
 <br />Step 2. Save the file in the root of your Jekyll project
 <br />Step 3. Make sure the structure of your documents head looks like this:
 

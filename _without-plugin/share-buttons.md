@@ -48,7 +48,7 @@ The script reads the `page.title` and the `page.url` and creates a share link. I
 
 ### Installation
 
-Step 1. Download the file [share-buttons.html](https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/_includes/share-buttons.html)
+Step 1. Download the file [share-buttons.html](https://raw.githubusercontent.com/xtapo/jekyllcodex/gh-pages/_includes/share-buttons.html)
 <br />Step 2. Save the file in the '_includes' directory of your project
 <br />Step 3. Add the following line to your layout on the place where you want the share buttons to appear:
 

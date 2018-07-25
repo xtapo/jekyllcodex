@@ -38,7 +38,7 @@ Note that the images are being resized and served by [images.weserv.nl](https://
 
 ### Installation
 
-Step 1. Download the file [image-gallery-index.html](https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/_includes/image-gallery-index.html)
+Step 1. Download the file [image-gallery-index.html](https://raw.githubusercontent.com/xtapo/jekyllcodex/gh-pages/_includes/image-gallery-index.html)
 <br />Step 2. Save the file in the ‘_includes’ directory of your project
 <br />Step 3. Add the following line to your layout on the place where you want the image gallery index to appear:
 

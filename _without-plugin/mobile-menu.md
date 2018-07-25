@@ -36,7 +36,7 @@ If you have trouble implementing this, you can also check this [universal Codepe
 
 ### Installation
 
-Step 1. Download the file [mobile-menu.html](https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/_includes/mobile-menu.html)
+Step 1. Download the file [mobile-menu.html](https://raw.githubusercontent.com/xtapo/jekyllcodex/gh-pages/_includes/mobile-menu.html)
 <br />Step 2. Save the file in the '_includes' directory of your project
 <br />Step 3. Make sure the bottom of your layout document looks like this:
 

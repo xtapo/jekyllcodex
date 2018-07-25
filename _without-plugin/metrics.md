@@ -32,7 +32,7 @@ A javascript is added to your footer to instruct Google to track the page load. 
 
 ### Installation
 
-Step 1. Download the file [analytics.html](https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/_includes/analytics.html)
+Step 1. Download the file [analytics.html](https://raw.githubusercontent.com/xtapo/jekyllcodex/gh-pages/_includes/analytics.html)
 <br />Step 2. Save the file in the '_includes' directory of your project
 <br />Step 3. Change the property code (UA-xxxxxxxx-1) to your code
 <br />Step 4. Make sure the bottom of your layout document looks like this:

@@ -55,7 +55,7 @@ The code above will create a XML feed with the 10 latest posts in it. To tell th
 
 ### Installation
 
-Step 1. Download the file [feed.xml](https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/feed.xml)
+Step 1. Download the file [feed.xml](https://raw.githubusercontent.com/xtapo/jekyllcodex/gh-pages/feed.xml)
 <br />Step 2. Save the file in the root of your Jekyll project
 <br />Step 3. Add the following line to your head/the 'head.html' include:
 

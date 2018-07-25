@@ -8,7 +8,7 @@ title: About Jekyll Codex
 
 ### For front-end developers
 
-Jekyll Codex is created by Joost van der Schee (<a href="https://twitter.com/jhvanderschee" target="_blank" style="color: #777777;">@jhvanderschee</a> or <a href="mailto:jhvanderschee@gmail.com" style="color: #777777;">jhvanderschee@gmail.com</a>) to make it easier for fellow front-end developers to choose for static web technology in their next project. The [getting started guide](/getting-started){: .gray} even shows how to do that without touching the command-line. If you want to know more about Jekyll, please visit the official Jekyll documentation. The link can be found in the menu at the top.
+Jekyll Codex is created by Joost van der Schee (<a href="https://twitter.com/xtapo" target="_blank" style="color: #777777;">@xtapo</a> or <a href="mailto:xtapo@gmail.com" style="color: #777777;">xtapo@gmail.com</a>) to make it easier for fellow front-end developers to choose for static web technology in their next project. The [getting started guide](/getting-started){: .gray} even shows how to do that without touching the command-line. If you want to know more about Jekyll, please visit the official Jekyll documentation. The link can be found in the menu at the top.
 
 ### Why Jekyll?
 

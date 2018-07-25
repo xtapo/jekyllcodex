@@ -42,7 +42,7 @@ Note that this script can be used only once on a page.
 
 ### Installation
 
-Step 1. Download the file [randomize.html](https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/_includes/randomize.html)
+Step 1. Download the file [randomize.html](https://raw.githubusercontent.com/xtapo/jekyllcodex/gh-pages/_includes/randomize.html)
 <br />Step 2. Save the file in the '_includes' directory of your project
 <br />Step 3. Make sure the bottom of your layout document looks like this:
 

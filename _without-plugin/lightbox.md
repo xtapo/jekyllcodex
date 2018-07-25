@@ -22,7 +22,7 @@ Note that I wrote this lightbox myself and tested it on a minimal amount of devi
 
 ### Installation
 
-Step 1. Download the file [lightbox.html](https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/_includes/lightbox.html)
+Step 1. Download the file [lightbox.html](https://raw.githubusercontent.com/xtapo/jekyllcodex/gh-pages/_includes/lightbox.html)
 <br />Step 2. Save the file in the '_includes' directory of your project
 <br />Step 3. Make sure the bottom of your layout document looks like this:
 

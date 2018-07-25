@@ -12,8 +12,8 @@ description: > # this means to ignore newlines until "baseurl:"
 url: "https://test1.xtapo.com/" # the base hostname & protocol for your site
 permalink: /blog/:title/
 
-facebook_url: https://www.facebook.com/jhvanderschee
-twitter_url: https://twitter.com/jhvanderschee
+facebook_url: https://www.facebook.com/xtapo
+twitter_url: https://twitter.com/xtapo
 linkedin_url: https://www.linkedin.com/in/joost-van-der-schee-4b26682
 googleplus_url: https://plus.google.com/u/0/+JoostvanderSchee
 pinterest_url:

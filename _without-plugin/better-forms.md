@@ -12,7 +12,7 @@ It validates all fields with javascript on blur. It adds 'active', 'valid' and '
 
 ### Installation
 
-Step 1. Download the file [better-forms.html](https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/_includes/better-forms.html)
+Step 1. Download the file [better-forms.html](https://raw.githubusercontent.com/xtapo/jekyllcodex/gh-pages/_includes/better-forms.html)
 <br />Step 2. Save the file in the '_includes' directory of your project
 <br />Step 3. Make sure the bottom of your layout document looks like this:
 

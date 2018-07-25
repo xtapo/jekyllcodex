@@ -32,7 +32,7 @@ The code allows you to set the height of the slider as an integer (number), and 
 
 ### Installation
 
-Step 1. Download the file [slider.html](https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/_includes/slider.html)
+Step 1. Download the file [slider.html](https://raw.githubusercontent.com/xtapo/jekyllcodex/gh-pages/_includes/slider.html)
 <br />Step 2. Save the file in the '_includes' directory of your project
 <br />Step 3. Make sure you load Twitter Bootstrap 3.3.7 and add this to your layout:
 

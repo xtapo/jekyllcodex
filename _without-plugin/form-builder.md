@@ -16,12 +16,12 @@ To create a form, add the following code to the front matter of your page:
 ```
 {% raw %}---
 form:
-  to: jhvanderschee@gmail.com
+  to: xtapo@gmail.com
   subject: New submission!
   redirect: /
   form_engine: formspree
   placeholders: false
-  fields: 
+  fields:
     - name: name
       input_type: text
       placeholder: Name
@@ -87,7 +87,7 @@ Disclaimer: Note that there is no select (dropdown) support (yet). Also note tha
 ### Installation
 
 Step 1. Make sure your front matter of your page looks like the example above<br>
-Step 2. Download the file [form.html](https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/_includes/form.html)<br>
+Step 2. Download the file [form.html](https://raw.githubusercontent.com/xtapo/jekyllcodex/gh-pages/_includes/form.html)<br>
 Step 3. Save the file in the '_includes' directory of your project<br>
 Step 4. Add the following line to your layout on the place where you want the form to appear:
 

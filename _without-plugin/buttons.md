@@ -22,7 +22,7 @@ Note that the page works perfectly fine when this script does not run. The link 
 
 ### Installation
 
-Step 1. Download the file [buttons.html](https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/_includes/buttons.html)
+Step 1. Download the file [buttons.html](https://raw.githubusercontent.com/xtapo/jekyllcodex/gh-pages/_includes/buttons.html)
 <br />Step 2. Save the file in the '_includes' directory of your project
 <br />Step 3. Make sure the bottom of your layout document looks like this:
 
